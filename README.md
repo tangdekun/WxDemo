@@ -2,6 +2,7 @@
 
 1.悬浮窗随手指移动:
 
+"pages/more/capture_screen/capture_screen"
 
 
 
