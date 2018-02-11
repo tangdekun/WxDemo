@@ -1,0 +1,74 @@
+/* pages/wrong-topic/index/index.wxss */
+/* <view class="container">
+<view class='view-image'>
+<image class="image" src="{{imageurl}}"mode="aspectFill"></image>
+<text class="text">长按图片可以保存到本地</text>
+</view>
+<view class="view-refresh">
+<image class="refresh" src="../../drawable/refresh.png" bindtap='reloadScreen' ></image>
+</view>
+</view>
+/* pages/more/capture_screen/capture_screen.wxss 
+
+.container {
+  width: 100%;
+  height: 667rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.view-image {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image {
+  width: 750rpx;
+  height:1354rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  margin-top: 5rpx;
+}
+
+.text {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: #b2b2b2;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.view-refresh {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.refresh {
+  width: 120rpx;
+  height: 120rpx;
+  margin: 30rpx;
+  margin-top: 100rpx;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *88*/

@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view bindtap="gotoPage"  data-page = "line"   data-packages ="charts"class="mt20 list-item">Line</view>
+  <view bindtap="gotoPage" data-page="scrollline" data-packages ="charts" class="mt20 list-item">ScrollLine</view>
+  <view bindtap="gotoPage" data-page="column" data-packages ="charts" class="list-item">Column</view>
+  <view bindtap="gotoPage" data-page="pie" data-packages ="charts" class="list-item">Pie</view>
+  <view bindtap="gotoPage" data-page="ring" data-packages ="charts" class="list-item">Ring</view>
+  <view bindtap="gotoPage" data-page="area" data-packages ="charts"  class="list-item">Area</view>
+  <view bindtap="gotoPage" data-page="radar" data-packages ="charts" class="list-item">Radar</view>
+  <view bindtap="gotoPage" data-page="index" data-packages ="wrong-topic"   class="list-item">WrongTopic</view>
+   <view bindtap="gotoPage" data-page="capture_screen" data-packages ="more"   class="list-item">抓取屏幕</view>
+   <view bindtap="gotoPage" data-page="update_information" data-packages ="more"   class="list-item">修改信息</view>
+    <view bindtap="gotoPage" data-page="news" data-packages ="more"   class="list-item">消息通知</view>
+</view>

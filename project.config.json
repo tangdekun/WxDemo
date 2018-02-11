@@ -1,0 +1,46 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.1",
+	"appid": "wx2e20408d40c8f895",
+	"projectname": "ChartsDemo",
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "wrong-topic-index",
+					"pathName": "pages/wrong-topic/index/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "more-capture-screen",
+					"pathName": "pages/more/capture_screen/capture_screen",
+					"query": ""
+				}
+			]
+		}
+	}
+}

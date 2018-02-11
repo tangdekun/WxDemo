@@ -1,0 +1,4 @@
+<view class="container">
+<image class="screen" src="{{imageurl}}"></image>
+<image class="refresh" src="{{refreshImageUrl}}" bindtap="reloadScreen" bindtouchmove="buttonMove" bindtouchstart="buttonStart" bindtouchend="buttonEnd" style='top:{{buttonTop}}px;left:{{buttonLeft}}px;'></image>
+</view>
